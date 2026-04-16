@@ -8,3 +8,10 @@ h1{
     background-color: blue;
     column-gap: white;
 }
+
+
+p{
+    font-size: 2rem;
+    font-weight: 900;
+    color: gold;
+}
