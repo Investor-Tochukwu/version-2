@@ -17,3 +17,8 @@ p{
     display: flex;
     justify-content: center;
 }
+
+.contact{
+    background-color: green;
+    font-size: 700;
+}
